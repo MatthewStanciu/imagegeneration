@@ -33,4 +33,4 @@ For division, because it's basically impossible to prevent division by 0 from ha
 
 </details>
 
-It's been really fun playing around with images and calculus! I'm really excited to dive deeper and make some more cool stuff. Eventually I want to make my own totally original thing that's not just adapted from someone else's source code. But for now I wanted to share my progress here. sadfs
+It's been really fun playing around with images and calculus! I'm really excited to dive deeper and make some more cool stuff. Eventually I want to make my own totally original thing that's not just adapted from someone else's source code. But for now I wanted to share my progress here.
