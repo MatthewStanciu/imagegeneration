@@ -19,7 +19,7 @@ One I figured out how it works, I thought: why stop at sine, cosine, and multipl
 
 </details>
 
-For division, because it's basically impossible to prevent division by 0 from happening at some point, I made it so that if it does divide divide by 0, generate a random number betweeen -1 and 1 and use that instead. It turns out division by 0 happens _a lot_, so that, combined with the rest of the trig functions, generated some very cool noisy pictures:
+For division, because it's basically impossible to prevent division by 0 from happening at some point, I made it so that if it does divide divide by 0, generate a random number between -1 and 1 and use that instead. It turns out division by 0 happens _a lot_, so that, combined with the rest of the trig functions, generated some very cool noisy pictures:
 
 <details>
 
